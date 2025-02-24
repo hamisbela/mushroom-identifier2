@@ -4,7 +4,7 @@ import { analyzeImage } from '../lib/gemini';
 import SupportBlock from '../components/SupportBlock';
 
 // Default mushroom image path
-const DEFAULT_IMAGE = "/images/mushroom-default.jpg";
+const DEFAULT_IMAGE = "/default-mushroom.jpg";
 
 // Default analysis for the mushroom
 const DEFAULT_ANALYSIS = `1. Species Identification:
