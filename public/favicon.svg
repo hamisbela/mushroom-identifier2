@@ -1,0 +1,46 @@
+<svg id='Mushroom_24' width='24' height='24' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><rect width='24' height='24' stroke='none' fill='#000000' opacity='0'/>
+
+
+<g transform="matrix(0.42 0 0 0.42 12 12)" >
+<g style="" >
+<g transform="matrix(1 0 0 1 -8.2 10.36)" >
+<radialGradient id="SVGID_P2EQJ_jiAIf7idZl7lPfja_1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.82 0.58 -0.82 1.15 26.49 -22.44)" cx="21.25" cy="37.639" r="8.29" fx="21.25" fy="37.639">
+<stop offset="0.5%" style="stop-color:rgb(245,244,223);stop-opacity: 1"/>
+<stop offset="12.7%" style="stop-color:rgb(238,235,211);stop-opacity: 1"/>
+<stop offset="34.5%" style="stop-color:rgb(219,210,181);stop-opacity: 1"/>
+<stop offset="34.9%" style="stop-color:rgb(219,210,180);stop-opacity: 1"/>
+<stop offset="52.300000000000004%" style="stop-color:rgb(194,176,143);stop-opacity: 1"/>
+<stop offset="72.8%" style="stop-color:rgb(169,141,106);stop-opacity: 1"/>
+<stop offset="89.5%" style="stop-color:rgb(154,120,83);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(148,112,75);stop-opacity: 1"/>
+</radialGradient>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_P2EQJ_jiAIf7idZl7lPfja_1); fill-rule: nonzero; opacity: 1;" transform=" translate(-15.8, -34.36)" d="M 23.491 31.337 L 19.812 28.726 L 16.133000000000003 26.115 C 14.980000000000002 28.601 10.987000000000002 30.326 9.279000000000003 32.733 C 7.503000000000004 35.235 7.506000000000004 38.927 10.874000000000004 41.31699999999999 C 14.242000000000004 43.70699999999999 17.728000000000005 42.49199999999999 19.504000000000005 39.989999999999995 C 21.214 37.584 21.525 33.247 23.491 31.337 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 1.18 -3.32)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(237,66,24); fill-rule: nonzero; opacity: 1;" transform=" translate(-25.18, -20.68)" d="M 33.631 9.256 C 31.608 7.82 28.993000000000002 6.878 26.224 6.445 C 26.271 6.75 26.295 7.024 26.295 7.279 C 26.295 10.298 23.839000000000002 12.754999999999999 20.82 12.754999999999999 C 17.866 12.754999999999999 15.475999999999999 10.434 15.357 7.484999999999999 C 13.274999999999999 8.312 11.501 9.521999999999998 10.341999999999999 11.155999999999999 C 6.220999999999998 16.962 12.271999999999998 23.895 19.561 29.081999999999997 C 26.85 34.26899999999999 35.379 37.711 39.525 31.868999999999996 C 43.811 25.829 40.007 13.781 33.631 9.256 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 3.9 -5.82)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(237,230,204); fill-rule: nonzero; opacity: 1;" transform=" translate(-27.9, -18.18)" d="M 36.898 21.619 C 38.150000000000006 22.508 39.775000000000006 22.458 40.968 21.631 C 40.528000000000006 19.421 39.721000000000004 17.205 38.639 15.205 C 37.64 15.294 36.684000000000005 15.789 36.058 16.671 C 34.923 18.268 35.299 20.484 36.898 21.619 z M 30.238 15.35 C 29.212 14.622 27.789 14.863 27.06 15.889 C 26.330999999999996 16.915 26.573 18.338 27.599 19.067 C 28.625 19.796 30.048000000000002 19.554 30.777 18.528 C 31.506 17.502 31.265 16.078 30.238 15.35 z M 33.9 24.352 C 32.451 23.323 30.442 23.664 29.413999999999998 25.114 C 28.384999999999998 26.563000000000002 28.726 28.572000000000003 30.176 29.6 C 31.625 30.629 33.634 30.288 34.662 28.838 C 35.69 27.388 35.349 25.38 33.9 24.352 z M 18.047 17.938 C 17.127 17.285 15.853000000000002 17.502 15.200000000000001 18.421 C 14.547 19.34 14.764000000000001 20.615 15.683000000000002 21.268 C 16.602000000000004 21.921000000000003 17.877000000000002 21.704 18.53 20.785 C 19.183 19.866 18.967 18.591 18.047 17.938 z M 26.224 6.444 C 26.271 6.749 26.295 7.023 26.295 7.278 C 26.295 10.297 23.839000000000002 12.754 20.82 12.754 C 17.86 12.754 15.465 10.424 15.355 7.465999999999999 C 18.566 6.191 22.528 5.866 26.224 6.444 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 1.18 -3.46)" >
+<radialGradient id="SVGID_P2EQJ_jiAIf7idZl7lPfjb_2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.47 0.88 -0.64 0.34 21.82 -8.02)" cx="10.895" cy="10.586" r="25.336" fx="10.895" fy="10.586">
+<stop offset="58.4%" style="stop-color:rgb(252,50,0);stop-opacity: 0"/>
+<stop offset="72.39999999999999%" style="stop-color:rgb(195,29,0);stop-opacity: 0.203"/>
+<stop offset="84.7%" style="stop-color:rgb(153,13,0);stop-opacity: 0.38"/>
+<stop offset="94.3%" style="stop-color:rgb(127,4,0);stop-opacity: 0.518"/>
+<stop offset="100%" style="stop-color:rgb(117,0,0);stop-opacity: 0.6"/>
+</radialGradient>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_P2EQJ_jiAIf7idZl7lPfjb_2); fill-rule: nonzero; opacity: 1;" transform=" translate(-25.18, -20.54)" d="M 39.525 31.867 C 35.379 37.709 26.849999999999998 34.267 19.561 29.080000000000002 C 12.272000000000002 23.893 6.221 16.96 10.342 11.154000000000003 C 14.628 5.115000000000004 27.160000000000004 4.6620000000000035 33.632 9.255000000000003 C 40.007 13.781 43.811 25.829 39.525 31.867 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 -3.18 -9.72)" >
+<radialGradient id="SVGID_P2EQJ_jiAIf7idZl7lPfjc_3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.33 -0.36 0.24 0.98 -8.24 10.33)" cx="19.846" cy="10.646" r="6.9" fx="19.846" fy="10.646">
+<stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity: 1"/>
+<stop offset="46.7%" style="stop-color:rgb(255,255,255);stop-opacity: 0.609"/>
+<stop offset="47.8%" style="stop-color:rgb(255,255,255);stop-opacity: 0.6"/>
+<stop offset="100%" style="stop-color:rgb(255,255,255);stop-opacity: 0"/>
+</radialGradient>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_P2EQJ_jiAIf7idZl7lPfjc_3); fill-rule: nonzero; opacity: 0.75;" transform=" translate(-20.82, -14.28)" d="M 31.496 12.274 C 32.283 16.457 28.142999999999997 20.747 22.25 21.856 C 16.356 22.965000000000003 10.94 20.473000000000003 10.153 16.291 C 9.366 12.108 13.506 7.818 19.399 6.709 C 25.292 5.6 30.709 8.091 31.496 12.274 z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
